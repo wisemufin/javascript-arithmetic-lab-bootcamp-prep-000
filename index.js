@@ -35,7 +35,7 @@ var c = 2.22
 
 function preserveDecimal(c) {
   if (n === parseFloat(c)) {
-    return c
+    return parseFloat(c)
   } else {
     return "false"
   }
