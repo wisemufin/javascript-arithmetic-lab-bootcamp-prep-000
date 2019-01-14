@@ -31,7 +31,7 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-var c = 2.22
+var c = 2.222
 
 function preserveDecimal(c) {
   if (n === parseFloat(c)) {
