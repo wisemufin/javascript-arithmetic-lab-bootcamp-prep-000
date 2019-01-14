@@ -32,9 +32,9 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return parseFloat(n, 10)
-}
-
-function preserveDecimal(n) {
-  return parseInt('20dkf')
+  if (n === parseFloat(n) {
+    return n
+  } else {
+    return false
+  }
 }
