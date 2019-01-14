@@ -35,6 +35,6 @@ function preserveDecimal(n) {
   if (n === parseFloat(n) {
     return n
   } else {
-    return false
+    return "false"
   }
 }
